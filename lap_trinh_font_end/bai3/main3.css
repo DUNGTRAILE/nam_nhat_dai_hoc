@@ -1,7 +1,13 @@
-.phan_chinh .thu_1{
-    color : rgb(255, 179, 0);
+:root {
+    --mau_chu_daocolor : rgb(255, 0, 0) ; 
 }
-.chinh.phu {
-    font-size : 50px ;
-    color : rgb(115, 0, 255) ;
+.noidungmot > .vanban {
+   color : var(--mau_chu_daocolor);
+    font-style : oblique ;
+}
+h1{
+    color : var(--mau_chu_daocolor);
+}
+h3{
+    color : var(--mau_chu_daocolor);
 }

@@ -1,0 +1,21 @@
+ html{
+    font-size : 75% ;
+
+  }
+  :root {
+    --mau_chu_dao :red;
+  }
+    .box{
+        width : 50vw;
+        height : 25vh ;
+        background-color : rgb(0, 53, 114) ;
+    } 
+.bang_1{
+    font-size : 2rem ;
+    color : var(--mau_chu_dao);
+    
+}
+.bang_2{
+    font-size:3rem ;
+    color : var(--mau_chu_dao);
+}

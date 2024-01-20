@@ -1,0 +1,25 @@
+html{
+    height: 700px;
+}
+
+.box{
+    height : 3rem ;
+}
+.box1 {
+    width : 25% ;
+  
+    background-image : linear-gradient (top right , rgba(221, 0, 0, 0.26) , rgb(11, 8, 11));
+}
+.box2 {
+    width : 50% ;
+    background-color : violet ;
+}
+.box3 {
+    width : 75% ;
+    background-color : yellow ;
+}
+.box4 {
+    width : 100% ;
+    background-color :black ;
+    color : blanchedalmond ;
+}
